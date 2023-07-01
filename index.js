@@ -7,3 +7,9 @@ const configuration = new Configuration({
 })
 
 const openai = new OpenAIApi(configuration);
+
+async function main(){
+
+}
+
+main();
