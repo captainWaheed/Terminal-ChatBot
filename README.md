@@ -1,6 +1,6 @@
 # ChatGPT Terminal Chatbot
 
-This is a ChatGPT chatbot written in Node.js that runs in the terminal
+A talkative companion for your terminal adventures! This Node.js-powered ChatGPT chatbot brings AI-powered conversations right to your fingertips. Engage in dynamic and interactive exchanges with ease, making language exploration and conversational applications a breeze.
 
 ## Usage
 
